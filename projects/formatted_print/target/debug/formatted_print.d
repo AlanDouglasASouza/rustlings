@@ -1,0 +1,1 @@
+/home/alan-dev/Área\ de\ Trabalho/TM/Exercicios\ Rust/rustlings/projects/formatted_print/target/debug/formatted_print: /home/alan-dev/Área\ de\ Trabalho/TM/Exercicios\ Rust/rustlings/projects/formatted_print/src/main.rs
