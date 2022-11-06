@@ -1,0 +1,1 @@
+/home/alan-dev/Área\ de\ Trabalho/TM/Exercicios\ Rust/rustlings/projects/the_twelve_days/target/debug/the_twelve_days: /home/alan-dev/Área\ de\ Trabalho/TM/Exercicios\ Rust/rustlings/projects/the_twelve_days/src/main.rs
